@@ -62,7 +62,5 @@ Coming soon...
 This project is open-source and available under the MIT License.
 
 ---
-
-📧 **Author**: [Vikash Kushwaha ](https://github.com/Kushwaha2406Vikash)  
-💼 **LinkedIn**: [https://www.linkedin.com/in/vikash-kushwaha-b36a71241/](#)  
 🚀 Happy Coding! 🎉
+
